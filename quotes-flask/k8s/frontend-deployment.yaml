@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kindness: Deployment
+kind: Deployment
 metadata:
   creationTimestamp: null
   labels:
